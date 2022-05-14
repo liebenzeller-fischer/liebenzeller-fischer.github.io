@@ -77,7 +77,7 @@ search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Fischerverein Bad Liebenzell e.V. | Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Fischerverein Bad Liebenzell e.V."
 
 # Preloader
 [params.preloader]
