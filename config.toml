@@ -52,7 +52,7 @@ weight = 2
 
 [[menu.main]]
 name = "Gewässer"
-url = "categories/gewässer/"
+url = "gewaesser/"
 weight = 3
 
 #[[menu.main]]
