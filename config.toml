@@ -55,15 +55,15 @@ name = "Gewässer"
 url = "gewaesser/"
 weight = 3
 
-#[[menu.main]]
-#name = "Kontakt"
-#url = "kontakt/"
-#weight = 4
+[[menu.main]]
+name = "Kontakt"
+url = "kontakt/"
+weight = 4
 
 [[menu.main]]
 name = "Impressum"
 url = "impressum/"
-weight = 4
+weight = 5
 
 
 #################### default parameters ################################
@@ -77,7 +77,7 @@ search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Fischerverein Bad Liebenzell e.V."
+copyright = "© Fischerverein Bad Liebenzell e.V. 2022 | Mitglied im <img src='/images/lfvbw.png' alt='LFVBW Logo' height='80px'/>"
 
 # Preloader
 [params.preloader]
