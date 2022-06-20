@@ -19,7 +19,7 @@ Jedes Jahr werden auch zahlreiche Regenbogenforellen gefangen, die wohl in den a
 
 Regelmäßige aquatische Analysen des Abschnitts, bestätigen uns eine Gewässergüte von II - III (Saprobienindex 2,1). Hiermit befinden wir uns im gehobenen Normalbereich, der für das Land Baden-Württemberg gemessenen Werte über alle Fließgewässer. Dies spiegelt sich auch im über mehrere Jahre gefestigten Bestand einiger Fischarten wieder.
 
-Die genauen Analysen inklusiver Bilder der Kleinstlebewesen (Makrozoobenthos), sind im [Thema Gewässeruntersuchung](/categories/gewaesseruntersuchung) zu finden.
+Die genauen Analysen inklusiver Bilder der Kleinstlebewesen (Makrozoobenthos), sind im [Thema Biologie](/categories/biologie) zu finden.
 
 ## Wasserstand
 
