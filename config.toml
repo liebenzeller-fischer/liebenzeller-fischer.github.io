@@ -7,8 +7,8 @@ languageCode = "de-de"
 # post pagination
 paginate = "5"
 # disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com# google analytics
-googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+disqusShortname = ""
+googleAnalytics = ""
 
 
 ############################# output ##############################
@@ -75,16 +75,16 @@ author = "Fischerverein Bad Liebenzell e.V."
 # search  
 search = true
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "#"
 # copyright
-copyright = "© Fischerverein Bad Liebenzell e.V. 2022 | Mitglied im <img src='/images/lfvbw.png' alt='LFVBW Logo' height='80px'/>"
+copyright = "© Fischerverein Bad Liebenzell e.V. 2022"
 
 # Preloader
 [params.preloader]
 enable = true
-preloader = "" # use jpg, png, svg or gif format.
+preloader = ""
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
