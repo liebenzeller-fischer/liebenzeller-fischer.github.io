@@ -1,58 +1,74 @@
 ---
 title: "Impressum"
-# meta description
-description: "this is meta description"
-# save as draft
+description: "Impressum - Fischerverein Bad Liebenzell e.V."
 draft: false
 layout: privacy-policy
 ---
 
-#### Angaben gemäß § 5 TMG
-
 Fischerverein Bad Liebenzell e.V.<br>
 Bergstraße 30/1<br>
-75399 Unterreichenbach<br>
-0172 633 124 4<br>
-webadmin@liebenzeller-fischer.de
+75399 Unterreichenbach
 
-#### Registereintrag
-
-Eingetragen im Vereinsregister<br>
-Registergericht: Stuttgart<br>
-Registernummer: VR 330541
+Telefon: 0172 633 124 4<br>
+E-Mail: webadmin@liebenzeller-fischer.de
 
 #### Vertreten durch
 
-* Alexander  Leins (1. Vorsitzender)
-* Robin Kraft (2. Vorsitzender)
+Alexander Leins (1. Vorsitzender)<br>
+Robin Kraft (2. Vorsitzender)
 
-#### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+#### Registereintrag
 
-Alexander Leins (admin@liebenzeller-fischer.de)
+Eingetragen im Vereinsregister.<br>
+Registergericht: Stuttgart<br>
+Registernummer: VR 330541
 
- 
+#### Verantwortlich für den Inhalt
 
-#### Streitschlichtung
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr.
-Unsere E-Mail-Adresse finden Sie oben im Impressum.
-Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+(gem. § 55 Abs. 2 RStV)
 
-#### Haftung für Inhalte
-Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
-Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+Alexander Leins (Anschrift siehe oben)
 
-#### Haftung für Links
-Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.
-Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+<hr>
 
-##### Urheberrecht
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
-Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+# Disclaimer - rechtliche Hinweise
+#### § 1 Warnhinweis zu Inhalten
 
-#### Datenschutz
-Betrieblicher Datenschutzbeauftragter des LFVBW gemäß Art. 37 DSGV, sowie nach § 38 BDSG n.F., ist Gerfried Riekewolt, TsO Technik und soziale Organisation, 73087 Bad Boll
-Zur Datenschutzerklärung
-Unser Umgang mit Ihren Daten (Auskunft nach Artikel 13, 14 und 21 DSGVO)
+Die kostenlosen und frei zugänglichen Inhalte dieser Webseite wurden mit größtmöglicher Sorgfalt erstellt.
+Der Anbieter dieser Webseite übernimmt jedoch keine Gewähr für die Richtigkeit und Aktualität der
+bereitgestellten kostenlosen und frei zugänglichen journalistischen Ratgeber und Nachrichten. Namentlich
+gekennzeichnete Beiträge geben die Meinung des jeweiligen Autors und nicht immer die Meinung des
+Anbieters wieder. Allein durch den Aufruf der kostenlosen und frei zugänglichen Inhalte kommt keinerlei
+Vertragsverhältnis zwischen dem Nutzer und dem Anbieter zustande, insoweit fehlt es am
+Rechtsbindungswillen des Anbieters.
 
-#### Beschwerderecht bei der zuständigen Aufsichtsbehörde
-Im Falle datenschutzrechtlicher Verstöße steht dem Betroffenen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde in datenschutzrechtlichen Fragen ist der Landesdatenschutzbeauftragte des Bundeslandes, in dem unser Unternehmen seinen Sitz hat. Zuständige Aufsichtsbehörde ist der Landesbeauftragte für den Datenschutz und die Informationsfreiheit Baden-Württemberg, Dr. Stefan Brink, Königstraße 10a, 70173 Stuttgart, Telefon: 07 11/61 55 41-0, poststelle@lfdi.bwl.de, http://www.baden-wuerttemberg.datenschutz.de
+#### § 2 Externe Links
+
+Diese Website enthält Verknüpfungen zu Websites Dritter ("externe Links"). Diese Websites unterliegen der
+Haftung der jeweiligen Betreiber. Der Anbieter hat bei der erstmaligen Verknüpfung der externen Links die
+fremden Inhalte daraufhin überprüft, ob etwaige Rechtsverstöße bestehen. Zu dem Zeitpunkt waren keine
+Rechtsverstöße ersichtlich. Der Anbieter hat keinerlei Einfluss auf die aktuelle und zukünftige Gestaltung
+und auf die Inhalte der verknüpften Seiten. Das Setzen von externen Links bedeutet nicht, dass sich der
+Anbieter die hinter dem Verweis oder Link liegenden Inhalte zu Eigen macht. Eine ständige Kontrolle der
+externen Links ist für den Anbieter ohne konkrete Hinweise auf Rechtsverstöße nicht zumutbar. Bei
+Kenntnis von Rechtsverstößen werden jedoch derartige externe Links unverzüglich gelöscht.
+
+#### § 3 Urheber- und Leistungsschutzrechte
+
+Die auf dieser Website veröffentlichten Inhalte unterliegen dem deutschen Urheber- und
+Leistungsschutzrecht. Jede vom deutschen Urheber- und Leistungsschutzrecht nicht zugelassene
+Verwertung bedarf der vorherigen schriftlichen Zustimmung des Anbieters oder jeweiligen Rechteinhabers.
+Dies gilt insbesondere für Vervielfältigung, Bearbeitung, Übersetzung, Einspeicherung, Verarbeitung bzw.
+Wiedergabe von Inhalten in Datenbanken oder anderen elektronischen Medien und Systemen. Inhalte und
+Rechte Dritter sind dabei als solche gekennzeichnet. Die unerlaubte Vervielfältigung oder Weitergabe
+einzelner Inhalte oder kompletter Seiten ist nicht gestattet und strafbar. Lediglich die Herstellung von
+Kopien und Downloads für den persönlichen, privaten und nicht kommerziellen Gebrauch ist erlaubt.
+Die Darstellung dieser Website in fremden Frames ist nur mit schriftlicher Erlaubnis zulässig.
+
+#### § 4 Besondere Nutzungsbedingungen
+
+Soweit besondere Bedingungen für einzelne Nutzungen dieser Website von den vorgenannten
+Paragraphen abweichen, wird an entsprechender Stelle ausdrücklich darauf hingewiesen. In diesem Falle
+gelten im jeweiligen Einzelfall die besonderen Nutzungsbedingungen.
+
+Quelle: <a href="https://www.juraforum.de/impressum-generator/" target="_blank">Hier aufrufen</a>

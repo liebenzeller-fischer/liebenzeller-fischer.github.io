@@ -5,7 +5,12 @@ description: "Kontakt - Fischerverein Bad Liebenzell e.V."
 
 # Allgemein
 
-Fragen, Anregungen oder Kommentare können an die folgende eMail Adresse gesendet werden: webadmin@liebenzeller-fischer.de
+Fragen, Anregungen oder Kommentare können an die folgende eMail Adresse gesendet werden: webadmin@liebenzeller-fischer.de.
+
+Das Impressum der Seite und die Erklärung zum Datenschutz sind hier zu finden:
+
+* [Impressum](/impressum)
+* [Datenschutz](/datenschutz)
 
 # Mitgliedschaft
 

@@ -1,10 +1,12 @@
 ---
 title: "Gewässer"
-description: "Übersicht der Gewässer des Fischerverein Bad Liebenzell e.V."
+description: "Gewässer - Fischerverein Bad Liebenzell e.V."
 draft: false
 ---
 
 Zur Zeit bewirtschaftet der Verein eine zusammenhängende Strecke der Nagold und den Stadtsee in Bad Liebenzell. 
+
+<hr>
 
 # Nagold
 ## Fischbestand
@@ -37,6 +39,8 @@ Die folgenden Bilder geben einen kleinen Eindruck über die Beschaffung des Absc
 
 ![Nagold mit Reiher](/images/post/nagold_reiher.jpg)
 
+<hr>
+
 # Stadtsee
 ## Fischbestand
 
@@ -44,7 +48,7 @@ Mitten im Ortskern von Bad Liebenzell gelegen, bietet der Stadtsee mit seinem na
 
 Zur natürlichen Regulierung der vorallem während den Sommermonaten oft in Massen heranwachsenden Rotaugen und Rotfedern, wird ein Besatzprogramm zum Aufbau eines selbsterhaltenden Bestandes mit Zandern durchgeführt. Weitere Informationen und Bilder können dem [Thema Zander](/tags/zander/) entommen werden.
 
-# Impressionen
+## Impressionen
 
 In malerischer Umgebung gelegen, bietet der Stadtsee einen wahren Naherholungsort.
 
