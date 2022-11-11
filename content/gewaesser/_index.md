@@ -35,9 +35,9 @@ Weitere detailierte Informationen über den Wasserstand können auf der [Website
 
 Die folgenden Bilder geben einen kleinen Eindruck über die Beschaffung des Abschnitts und seiner oberirdischen Bewohner.
 
-![Nagold im Winter](/images/post/nagold_winter.jpg)
+![Nagold im Winter](/images/nagold_winter.jpg)
 
-![Nagold mit Reiher](/images/post/nagold_reiher.jpg)
+![Nagold mit Reiher](/images/nagold_reiher.jpg)
 
 <hr>
 
@@ -52,8 +52,8 @@ Zur natürlichen Regulierung der vorallem während den Sommermonaten oft in Mass
 
 In malerischer Umgebung gelegen, bietet der Stadtsee einen wahren Naherholungsort.
 
-![Stadtsee](/images/post/stadtsee.jpg)
+![Stadtsee](/images/stadtsee.jpg)
 
-![Stadtsee](/images/post/stadtsee1.jpg)
+![Stadtsee](/images/stadtsee1.jpg)
 
-![Stadtsee](/images/post/stadtsee2.jpg)
+![Stadtsee](/images/stadtsee2.jpg)
