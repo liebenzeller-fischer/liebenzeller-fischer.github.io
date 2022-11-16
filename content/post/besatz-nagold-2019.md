@@ -7,7 +7,7 @@ categories: ["News"]
 tags: ["Nagold", "Bad Liebenzell", "Besatz"]
 ---
 
-Zur weiteren Stärkung unseres Fischbestandes, folgte auch in diesem Jahr ein dem Gewässer angepasster
+Zur weiteren Stärkung unseres Fischbestandes folgte auch in diesem Jahr ein dem Gewässer angepasster
 Besatz mit Bachforellen. 
 
 ![Besatz](/images/besatz-nagold-2019-1.jpg)
