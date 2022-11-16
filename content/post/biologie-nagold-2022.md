@@ -27,7 +27,7 @@ Hingegen konnten wir unter den Vertretern der Steinfliegen nur eine geringe Meng
 
 ![Besatz](/images/biologie-nagold-2022-3.jpg)
 
-Nach der Bestimmung aller restlicher Arten, wurde ein Saprobienindex von **2,1** ermittelt. Dieser liegt im für diese
+Nach der Bestimmung aller restlicher Arten, konnte ein Saprobienindex von **2,1** ermittelt werden. Dieser liegt im für diese
 Region erwarteten Normalbereich und bestätigt uns ein gesundes Artenvorkommen. 
 Dieses ist außerordentlich wichtig für die weitere erfolgreiche Bewirtschaftung des Gewässers.
 
