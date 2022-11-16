@@ -13,8 +13,8 @@ retten und in benachbarte Gewässer verbringen.
 
 ![Besatz](/images/kurparksee2.jpg)
 
-Die über 400 prächtigen und gesunden Karpfen, konnten nach dem Ablassen des Sees schonend in die dafür 
-vorhergesehenen Transportanhänger verfrachtet werden.
+Die über 400 prächtigen und gesunden Karpfen konnten nach dem Ablassen des Sees schonend in die dafür 
+vorgesehenen Transportanhänger verfrachtet werden.
 
 ![Besatz](/images/kurparksee3.jpg)
 
