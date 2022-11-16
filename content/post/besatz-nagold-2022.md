@@ -7,10 +7,10 @@ categories: ["News"]
 tags: ["Nagold", "Bad Liebenzell", "Besatz"]
 ---
 
-Zur weiteren Stärkung unseres Fischbestandes, folgte auch in diesem Jahr ein dem Gewässer angepasster
+Zur weiteren Stärkung unseres Fischbestandes folgte auch in diesem Jahr ein dem Gewässer angepasster
 Besatz mit Bachforellen. 
 
-Erweitert wird der Bestand vorallem mit jungen einjährigen Bachforellen, die sich optimal an die Bedingungen
+Erweitert wird der Bestand vor allem mit jungen einjährigen Bachforellen, die sich optimal an die Bedingungen
 vor Ort anpassen können.
 
 ![Besatz](/images/besatz-nagold-2022-2.jpg)
