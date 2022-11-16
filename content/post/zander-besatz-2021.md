@@ -7,9 +7,9 @@ categories: ["News"]
 tags: ["Stadtsee", "Bad Liebenzell", "Besatz", "Zander"]
 ---
 
-Zur Reduzierung des übermäßigen Bestandes an Weißfischen, erfolgte bereits in den Vorjahren ein Erstbesatz mit Zandern, um ein natürliches Gleichgewicht unterwasser wieder herzustellen.
+Zur Reduzierung des übermäßigen Bestandes an Weißfischen erfolgte bereits in den Vorjahren ein Erstbesatz mit Zandern, um ein natürliches Gleichgewicht unterwasser wieder herzustellen.
 
-In diesem Jahr führen wir das Konzept fort, und besetzen wiedermals eine neue Generation der Raubfische.
+In diesem Jahr führen wir das Konzept fort und besetzen wiedermals eine neue Generation der Raubfische.
 
 ![Besatz](/images/zander-besatz-2021-2.jpg)
 
