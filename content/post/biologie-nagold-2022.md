@@ -8,8 +8,8 @@ tags: ["Nagold", "Bad Liebenzell", "Biologie", "Gewaesserguete"]
 ---
 
 Regelmäßige aquatische Analysen unseres Gewässerabschnittes der Nagold, erlauben einen tiefgreifenden
-Einblick in die biologischen Zusammenhänge unterwasser. Die jährliche stattfindende Auswertung bietet die Möglichkeit,
-Veränderungen an der Wasserqualität im Jahresrythmus festzuhalten und entsprechende Maßnahmen einzuleiten. Zur Sicherstellung
+Einblick in die biologischen Zusammenhänge unterwasser. Die jährlich stattfindende Auswertung bietet die Möglichkeit,
+Veränderungen an der Wasserqualität im Jahresrhytmus festzuhalten und entsprechende Maßnahmen einzuleiten. Zur Sicherstellung
 des Nahrungsangebotes für die heimischen Fischarten, ist der aktuelle Zustand des Gewässers dauerhaft zu beachten.
 
 Die dafür notwendige Entnahme von Makrozoobenthos (tierische Bewohner im Gewässergrund) erfolgt stets am selben Ort, um die
