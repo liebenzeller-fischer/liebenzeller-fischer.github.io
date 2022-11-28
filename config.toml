@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://liebenzeller-fischer.github.io"
+baseURL = "https://liebenzeller-fischer.de"
 title = "Fischerverein Bad Liebenzell e.V."
 theme = "persian-hugo"
 languageName = "De"
