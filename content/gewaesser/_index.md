@@ -29,7 +29,7 @@ Als Referenzwert für den Wasserstand der Nagoldstrecke kann repräsentativ die 
 
 Weitere detailierte Informationen über den Wasserstand können auf der [Website der Hochwasservorhersagezentrale BW](https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00038) des LUBW eingesehen werden.
 
-![Wasserstand Nagold Calw](https://www.hvz.baden-wuerttemberg.de/gifs/00038-2001.gif)
+![Wasserstand Nagold Calw](https://www.hvz.baden-wuerttemberg.de/gifs/00038-2001.GIF)
 
 ## Impressionen
 
