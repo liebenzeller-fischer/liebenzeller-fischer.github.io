@@ -72,7 +72,7 @@ search = true
 # contact form action
 contact_form_action = "#"
 # copyright
-copyright = "**© Fischerverein Bad Liebenzell e.V. 2022 | <a href='/impressum'>Impressum</a> | <a href='/datenschutz'>Datenschutz</a>**<br>Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "**© Fischerverein Bad Liebenzell e.V. 2023 | <a href='/impressum'>Impressum</a> | <a href='/datenschutz'>Datenschutz</a>**<br>Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
 # Preloader
 [params.preloader]
