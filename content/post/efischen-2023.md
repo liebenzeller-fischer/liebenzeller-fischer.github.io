@@ -9,9 +9,11 @@ tags: ["Nagold", "Bad Liebenzell", "E-Fischen"]
 
 #E-Fischen
 
-Hier gibts demnächst weitere Informationen über das diesjährige E-Fischen.
+Hier gibts weitere Bilder über das diesjährige E-Fischen.
 
-![E-Fischen](/images/efischen/E-FischenStart.jpg)
+![E-Fischen](/images/efischen/E-Fischen0.jpg)
+
+![E-Fischen](/images/efischen/E-Fischen1.jpg)
 
 
 
