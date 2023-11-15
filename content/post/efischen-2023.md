@@ -1,6 +1,6 @@
 ---
-title: "E-Fischen 2023"
-date: 2023-09-29
+title: "E-Fischen in der Nagold im Herbst 2023"
+date: 2023-09-30
 image: "images/efischen/E-FischenStart.jpg"
 description: "E-Fischen in der Nagold im Herbst 2023"
 categories: ["News"]
