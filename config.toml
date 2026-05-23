@@ -5,7 +5,7 @@ theme = "persian-hugo"
 languageName = "De"
 languageCode = "de-de"
 # post pagination
-paginate = "5"
+paginate = 5
 # disqus short name
 disqusShortname = ""
 googleAnalytics = ""
