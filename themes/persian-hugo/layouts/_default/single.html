@@ -41,12 +41,12 @@
   </div>
 </section>
 
-{{ with site.Config.Services.Disqus.Shortname }}
+{{ if .Site.DisqusShortname }}
 <section class="section-sm bg-light">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
-        {{ template "_internal/disqus.html" $ }}
+        {{ template "_internal/disqus.html" . }}
       </div>
     </div>
   </div>
