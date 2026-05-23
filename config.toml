@@ -63,6 +63,9 @@ weight = 4
 
 #################### default parameters ################################
 [params]
+# Hauptsektionen für die Startseiten-/Listen-Pagination (unsere Beiträge liegen unter content/post)
+mainSections = ["post"]
+
 logo = "images/logo.jpg"
 # Meta data
 description = "Fischerverein Bad Liebenzell e.V."
