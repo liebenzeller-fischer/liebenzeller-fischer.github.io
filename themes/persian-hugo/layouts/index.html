@@ -48,8 +48,12 @@
       {{ end }}
       <div class="col-12">
 
-       <p>DEBUG kind={{ .Kind }} isHome={{ .IsHome }} isPage={{ .IsPage }}</p>
-        <p>DEBUG totalPages={{ $paginator.TotalPages }} page={{ $paginator.PageNumber }}</p>
+       {{ $posts := where site.RegularPages "Section" "post" }}
+<p>DEBUG posts={{ len $posts }} paginate={{ site.Paginate }}</p>
+
+{{ $paginator := .Paginate $posts }}
+<p>DEBUG totalPages={{ $paginator.TotalPages }} page={{ $paginator.PageNumber }}</p>
+
 
         <!-- Number of links either side of the current page. -->
         {{ $adjacent_links := 2 }}
