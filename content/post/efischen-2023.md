@@ -1,7 +1,7 @@
 ---
 title: "E-Fischen in der Nagold im Herbst 2023"
 date: 2023-09-30
-image: "images/efischen/E-FischenStart.jpg"
+image: "images/efischen/2023-efischen-start.jpg"
 description: "E-Fischen in der Nagold im Herbst 2023"
 categories: ["News"]
 tags: ["Nagold", "Bad Liebenzell", "E-Fischen"]
