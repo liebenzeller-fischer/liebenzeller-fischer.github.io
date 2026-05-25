@@ -1,16 +1,16 @@
 ---
 title: "Besatz Stadtsee 2026"
-date: 2026-02-28
-image: "images/2026_Stadtsee_besatz/stadtsee-große-bachforelle.jpg"
-description: "Fischbesatz im Stadtsee im Frühling 2026"
+date: 2026-03-08
+image: "images/2026_Nagold_besatz/Nagold-äschenbesatz.jpg"
+description: "Fischbesatz in der Nagold im Frühling 2026"
 categories: ["News"]
-tags: ["Stadtsee", "Bad Liebenzell", "Besatz"]
+tags: ["Nagold", "Bad Liebenzell", "Besatz"]
 ---
 
-Zur weiteren Stärkung unseres Fischbestandes erfolgte auch in diesem Jahr ein auf den Stadtsee abgestimmter Besatz mit Regenbogenforellen sowie größeren Bachforellen.
+Im Jahr 2026 wurde zur weiteren Stabilisierung unseres Fischbestandes ein an die Nagold angepasstes Besatzmaßnahme mit kleinen Bachforellen und kleinen Äschen durchgeführt.
 
-![Besatz](/images/2026_Stadtsee_besatz/stadtsee-große-bachforelle-5kg.jpg)
+Ergänzt wird der Bestand dabei vor allem durch junge, einjährige Fische, die sich gut an die Bedingungen vor Ort anpassen können.
 
-![Besatz](/images/2026_Stadtsee_besatz/Stadtsee-forellenbessatz-netz.jpg)
+![Besatz](/images/2026_Nagold_besatz/Nagold-äschenbesatz.jpg)
 
-![Besatz](/images/2026_Stadtsee_besatz/Stadtsee-forellenbesatz.jpg)
+![Besatz](/images/2026_Nagold_besatz/Nagold-forellenbesatz.jpg)
