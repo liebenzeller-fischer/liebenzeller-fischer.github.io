@@ -9,8 +9,6 @@ tags: ["Stadtsee", "Bad Liebenzell", "Besatz"]
 
 Zur weiteren Stärkung unseres Fischbestandes erfolgte auch in diesem Jahr ein auf den Stadtsee abgestimmter Besatz mit Regenbogenforellen sowie größeren Bachforellen.
 
-![Besatz](/images/2026_Stadtsee_besatz/stadtsee-große-bachforelle.jpg)
-
 ![Besatz](/images/2026_Stadtsee_besatz/stadtsee-große-bachforelle-5kg.jpg)
 
 ![Besatz](/images/2026_Stadtsee_besatz/Stadtsee-forellenbessatz-netz.jpg)
