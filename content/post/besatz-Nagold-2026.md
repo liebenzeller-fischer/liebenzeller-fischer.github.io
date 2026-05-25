@@ -1,5 +1,5 @@
 ---
-title: "Besatz Stadtsee 2026"
+title: "Besatz Nagold 2026"
 date: 2026-03-08
 image: "images/2026_Nagold_besatz/Nagold-aesche.jpg"
 description: "Fischbesatz in der Nagold im Frühling 2026"
