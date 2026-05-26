@@ -478,7 +478,8 @@ mark {
 
 .content a {
   color: #555;
-  border-bottom: 1px dotted #eee; }
+  border-bottom: 1px dotted #eee;
+  font-weight: bold; }
   .content a:hover {
     color: #222; }
 
