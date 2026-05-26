@@ -233,6 +233,7 @@
   a {
     color: $text-color;
     border-bottom: 1px dotted $border-color;
+    font-weight: bold;
 
     &:hover {
       color: $primary-color;
