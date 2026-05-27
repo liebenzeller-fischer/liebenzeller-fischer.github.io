@@ -8,12 +8,13 @@ draft: false
 
 Vielen Dank für dein Interesse.
 
-Bitte beachte: Über diese Website stellen wir **keine Gast- bzw. Tageskarten** aus.  
-Zur Orientierung (laut Tourist-Information Bad Liebenzell): **Tageskarte 55,- €***  
+Bitte beachte: Über diese Website stellen wir **keine Tageskarten (Gastkarten)** aus.
+
+Zur Orientierung (laut Tourist-Information Bad Liebenzell, Angaben ohne Gewähr): **Tageskarte 55,- €***  
 \*inkl. **20,- € Genussgutschein** (einlösbar in Bad Liebenzeller Gastronomie und Hotellerie).
 
-Für **aktuelle Preise, Verfügbarkeit und die offiziellen Informationen** rund um das Fliegenfischen in Bad Liebenzell (inkl. Fischgewässer I, II, III) ist die Tourist-Information Bad Liebenzell die richtige Anlaufstelle:
+Für aktuelle Preise, Verfügbarkeit und die offiziellen Informationen rund um das Fliegenfischen in Bad Liebenzell (inkl. Fischgewässer I, II, III) ist die Tourist-Information Bad Liebenzell die richtige Anlaufstelle:
 
-**[Alle Infos & Tageskarten](https://www.tourismus-bad-liebenzell.de/aktivitaeten/fliegenfischen/)**
+**[=> Alle Infos & Tageskarten](https://www.tourismus-bad-liebenzell.de/aktivitaeten/fliegenfischen/)**
 
 Dort findest du auch die passenden Ansprechpartner (E-Mail/Telefon), falls du Fragen zum Erwerb oder zur Verfügbarkeit der Karten hast.
