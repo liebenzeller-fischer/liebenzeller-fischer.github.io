@@ -56,7 +56,7 @@ url = "gewaesser/"
 weight = 3
 
 [[menu.main]]
-name = "Gewässerkarte"
+name = "Gastkarte"
 url = "/gewaesserkarte/"
 weight = 4
 
