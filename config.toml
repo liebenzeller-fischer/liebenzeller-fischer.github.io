@@ -56,9 +56,14 @@ url = "gewaesser/"
 weight = 3
 
 [[menu.main]]
+name = "Gewässerkarte"
+url = "gewaesserkarte/"
+weight = 4
+
+[[menu.main]]
 name = "Kontakt"
 url = "kontakt/"
-weight = 4
+weight = 5
 
 
 #################### default parameters ################################
