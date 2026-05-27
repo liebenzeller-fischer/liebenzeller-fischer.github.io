@@ -1,5 +1,5 @@
 ---
-title: "Tageskarte"
+title: "Tageskarten"
 description: "Tageskarten – Fischerverein Bad Liebenzell e.V."
 draft: false
 ---
