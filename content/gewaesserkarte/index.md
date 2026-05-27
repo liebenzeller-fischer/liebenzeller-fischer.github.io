@@ -1,11 +1,13 @@
 ---
-title: "Gastkarte"
-description: "Gastkarte – Fischerverein Bad Liebenzell e.V."
+title: "Tageskarten"
+description: "Tageskarten – Fischerverein Bad Liebenzell e.V."
+draft: false
+type: "page"
 ---
 
-## Hinweis zu Gewässerkarten & Tageskarten
+## Hinweis zu Tageskarten & Gewässerinfos
 
-Wir stellen auf dieser Website **keine Gewässerkarten** zur Verfügung und haben auf die dort veröffentlichten Karten, Preise und Informationen **keinen Einfluss**.
+Wir stellen auf dieser Website **keine Gastkarten (Tageskarten)** zur Verfügung und haben auf die dort veröffentlichten Karten, Preise und Informationen **keinen Einfluss**.
 
 Alle aktuellen und offiziellen Informationen rund um **Fliegenfischen in Bad Liebenzell** (inkl. **Fischgewässer I, II, III**, **Tageskarten**, Saison-Infos und Kontaktmöglichkeiten) laufen über die Tourist-Information Bad Liebenzell:
 
