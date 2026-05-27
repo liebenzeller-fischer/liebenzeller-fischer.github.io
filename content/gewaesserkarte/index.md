@@ -3,6 +3,7 @@ title: "Tageskarten"
 description: "Tageskarten – Fischerverein Bad Liebenzell e.V."
 draft: false
 type: "page"
+layout: "page"
 ---
 
 ## Hinweis zu Tageskarten & Gewässerinfos
