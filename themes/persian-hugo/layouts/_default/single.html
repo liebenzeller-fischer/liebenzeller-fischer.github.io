@@ -1,9 +1,12 @@
 {{ define "main" }}
 
+{{ if eq .Section "post" }}
 <section>
   <div class="container-fluid">
     <div class="post">
-      <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
+      {{ with .Params.Image }}
+      <img src="{{ . | absURL }}" class="img-fluid w-100" alt="{{ $.Title }}">
+      {{ end }}
       <div class="post-content">
         <div class="post-date">
           <span>{{ .PublishDate.Format "02" }}</span>
@@ -14,6 +17,8 @@
     </div>
   </div>
 </section>
+{{ end }}
+
 
 <section class="section-sm">
   <div class="container">
