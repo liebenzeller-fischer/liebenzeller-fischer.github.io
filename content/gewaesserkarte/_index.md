@@ -10,7 +10,7 @@ Vielen Dank für dein Interesse.
 
 Bitte beachte: Über diese Website stellen wir **keine Tageskarten (Gastkarten)** aus.
 
-Zur Orientierung (laut Tourist-Information Bad Liebenzell, Angaben ohne Gewähr): 
+Zur Orientierung (laut Tourist-Information Bad Liebenzell, Angaben ohne Gewähr): <br>
 **Tageskarte 55,- €***  
 \*inkl. **20,- € Genussgutschein** (einlösbar in Bad Liebenzeller Gastronomie und Hotellerie).
 
